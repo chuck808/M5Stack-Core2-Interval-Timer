@@ -10,7 +10,6 @@ This project was based on the <a href="https://www.hackster.io/SeeedStudio/wio-t
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ### Built With
 
 * M5Stack Core2
@@ -19,15 +18,11 @@ This project was based on the <a href="https://www.hackster.io/SeeedStudio/wio-t
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
