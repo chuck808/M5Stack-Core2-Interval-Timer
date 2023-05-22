@@ -10,10 +10,9 @@ This project was based on the [Wio Terminal Timer](https://www.hackster.io/Seeed
 
 ### Built With
 
-* <a href="https://shop.m5stack.com/products/m5stack-core2-esp32-iot-development-kit" target="_blank">M5Stack Core2</a>
-* <a href="https://www.arduino.cc/en/software" target="_blank">ARDUINO IDE 2</a>
-* <a href="https://github.com/lovyan03/LovyanGFX" target="_blank">LovyanGFX</a>
-[Test](https://github.com/lovyan03/LovyanGFX)
+* [M5Stack Core2](https://shop.m5stack.com/products/m5stack-core2-esp32-iot-development-kit)  
+* [ARDUINO IDE 2](https://www.arduino.cc/en/software) 
+* [LovyanGFXLovyanGFX](https://github.com/lovyan03/) 
 
 
 <!-- GETTING STARTED -->
