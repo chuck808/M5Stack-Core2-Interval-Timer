@@ -5,7 +5,7 @@ Countdown Interval Timer using M5Stack Core2 &amp; LovyanGFX - aka. HIIT, Gym, P
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project was based on the <a href="https://www.hackster.io/SeeedStudio/wio-terminal-timer-6afe8c/" target="_blank">Wio Terminal Timer</a> and was developed to see if I could get the LovyaGFX library working with the M5Core2 library. It also demonstrates how use a sound file with the Core2 without an external library.
+This project was based on the [Wio Terminal Timer](https://www.hackster.io/SeeedStudio/wio-terminal-timer-6afe8c/) and was developed to see if I could get the LovyaGFX library working with the M5Core2 library. It also demonstrates how use a sound file with the Core2 without an external library.
 
 
 ### Built With
@@ -13,9 +13,7 @@ This project was based on the <a href="https://www.hackster.io/SeeedStudio/wio-t
 * <a href="https://shop.m5stack.com/products/m5stack-core2-esp32-iot-development-kit" target="_blank">M5Stack Core2</a>
 * <a href="https://www.arduino.cc/en/software" target="_blank">ARDUINO IDE 2</a>
 * <a href="https://github.com/lovyan03/LovyanGFX" target="_blank">LovyanGFX</a>
-
-
-* [Test](https://github.com/lovyan03/LovyanGFX)
+[Test](https://github.com/lovyan03/LovyanGFX)
 
 
 <!-- GETTING STARTED -->
