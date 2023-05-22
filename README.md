@@ -11,7 +11,7 @@ This project was based on the [Wio Terminal Timer](https://www.hackster.io/Seeed
 
 ### Built With
 
-* [![M5Stack Core2](https://shop.m5stack.com/products/m5stack-core2-esp32-iot-development-kit)]  
+* [M5Stack Core2](https://shop.m5stack.com/products/m5stack-core2-esp32-iot-development-kit)  
 * [ARDUINO IDE 2](https://www.arduino.cc/en/software) 
 * [LovyanGFX](https://github.com/lovyan03/) 
 * [Lang-Ship Tools Image Conversion](https://lang-ship.com/tools/image2data/)
@@ -28,9 +28,21 @@ If you decide to use your own welcome image and audio, prepare them in the usual
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This countdown interval timer can be used in all kinds of activities right out the box, such as Boxing, HITT training, CrossFit, Sprint traning and so on.
+It could also be easily adapted to suit other situations (you could even boil an egg with it :) )
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+Currently, the flow of the app is fairly straightforward:-
+
+- Welcome Screen (Splash Screen)
+- Setup Screens
+	- Set Number of Reps
+	- Set Workout Timer
+	- Set Rest Timer
+- Run Timer Screens
+	- Run Workout Timer
+	- Run Rest Timer
+	- Repeat for Set Number of Reps
+- End Timer Screen
 
 
 <!-- FUTURE UPDATES -->
@@ -40,5 +52,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 * The Set Num Reps should not go past sero
 * The M5.BtnC.pressedFor(500) needs inproving
 * Reduce flicker, even though using Sprites
+* Allow the Set Modes to navigate beckwards
+* RESTART current set times instead of just RESET
 
 
