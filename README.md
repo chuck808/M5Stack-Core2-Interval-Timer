@@ -30,5 +30,12 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 
+<!-- FUTURE UPDATES -->
+## Funture Improvements
+
+* The audio beeps could be improved 
+* The Set Num Reps should not go past sero
+* The M5.BtnC.pressedFor(500) needs inproving
+* Reduce flicker, even though using Sprites
 
 
