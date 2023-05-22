@@ -12,7 +12,7 @@ This project was based on the [Wio Terminal Timer](https://www.hackster.io/Seeed
 
 * [M5Stack Core2](https://shop.m5stack.com/products/m5stack-core2-esp32-iot-development-kit)  
 * [ARDUINO IDE 2](https://www.arduino.cc/en/software) 
-* [LovyanGFXLovyanGFX](https://github.com/lovyan03/) 
+* [LovyanGFX](https://github.com/lovyan03/) 
 * [Lang-Ship Tools Image Conversion](https://lang-ship.com/tools/image2data/)
 * [Lang-Ship Tools Audio Conversion](https://lang-ship.com/tools/wav2data/)
 
@@ -20,8 +20,8 @@ This project was based on the [Wio Terminal Timer](https://www.hackster.io/Seeed
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Ensure you have the current software and libraries installed, upload the code and it should work streight out of the box.
+If you decide to use your own welcome image and audio, prepare them in the usual way using the Lang-Ship links. There are other scripts that can achieve this.
 
 
 <!-- USAGE EXAMPLES -->
