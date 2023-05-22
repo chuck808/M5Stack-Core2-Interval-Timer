@@ -11,7 +11,7 @@ This project was based on the [Wio Terminal Timer](https://www.hackster.io/Seeed
 
 ### Built With
 
-* [M5Stack Core2](https://shop.m5stack.com/products/m5stack-core2-esp32-iot-development-kit)  
+* [![M5Stack Core2](https://shop.m5stack.com/products/m5stack-core2-esp32-iot-development-kit)]  
 * [ARDUINO IDE 2](https://www.arduino.cc/en/software) 
 * [LovyanGFX](https://github.com/lovyan03/) 
 * [Lang-Ship Tools Image Conversion](https://lang-ship.com/tools/image2data/)
