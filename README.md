@@ -15,7 +15,7 @@ This project was based on the <a href="https://www.hackster.io/SeeedStudio/wio-t
 * <a href="https://github.com/lovyan03/LovyanGFX" target="_blank">LovyanGFX</a>
 
 
-[Test](https://github.com/lovyan03/LovyanGFX)
+* [Test](https://github.com/lovyan03/LovyanGFX)
 
 
 <!-- GETTING STARTED -->
